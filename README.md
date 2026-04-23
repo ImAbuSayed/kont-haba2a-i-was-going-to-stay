@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين، قلبي يناديك
+> بين النجوم، روحي تلاقيك
+> طيفك هنا، بالغرام يدفيك
+> نبض الهوى، دايماً يواسيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
